@@ -13,6 +13,7 @@ Our objective is to develop methods of using a small, relatively inexpensive, an
 * see read a synopsis of ROV testing and AI proof-of-concept analyses of benthic imagery, see the _ROV_AI_synopsis_ document ([TeX](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/ROV_AI_synopsis/ROV_AI_synopsis.tex), [pdf](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/ROV_AI_synopsis/ROV_AI_synopsis.pdf)) (the pdf is a large file and requires being downloaded)
 * to read a proposal funded by the North Pacific Coast Marine Resources Committee, see _North_Pacific_Coast_MRC_proposal_ document ([pdf](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/North_Pacific_Coast_MRC_proposal/ROV_pilotStudy_NPC-MRC_proposal%2021-23.pdf)) 
 * to view all hardware and software associated with this project, see the _hardware_software_ document ([markdown](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/hardware_software.md))
+* to view a copy of _Waksa·s_' divelog, see the _DiveLog_ document ([Excel](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/DiveLog.xlsx))
 
 As what we envision is ambitious, we welcome collaborators and partners, as well as feedback, comments, and questions. If you want to contact lead Prinicpal Investigator Dr. Zachary Randell, he can be reached at: z.randell@seattleaquarium.org 
 
