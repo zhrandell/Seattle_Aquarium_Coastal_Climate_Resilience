@@ -12,7 +12,7 @@ Hardware
 </table>
 
 <table>
-  <tr> <td colspan="3"> <b> Benthic and forward-facing camera arrays, lighting, and added sensors </b> </td> </tr>
+  <tr> <td colspan="3"> <b> Benthic and forward-facing camera, lights, and additional sensors </b> </td> </tr>
   <tr> <td> <i>Component</i> </td> <td> <i>Purpose</i> </td> <td> <i>Price</i> </td> </tr>
   <tr> <td> <a href="https://bluerobotics.com/store/rov/bluerov2-accessories/brov-payload-skid/"> Payload skid </a></td> <td> provides undercarriage for lights, cameras, and sensors </td> <td> $300 </td> </tr>
   <tr> <td> <a href="https://bluerobotics.com/store/thrusters/lights/lumen-sets-r2-rp/"> x4 150 lumen lights </a></td> <td> benthic illumination </td> <td> $650 </td> </tr>
@@ -25,16 +25,16 @@ ROV firmware, flight programs, & analytical software
 
 <table>
   <tr> <td colspan="3"> ROV firmware & laptop software </td> </tr>
-  <tr> <td> <i>Component</i> </td> <td> <i>Purpose</i> </td> <td> <i>Availability</i> </td> </tr>
-  <tr> <td> <a href="HYPERLINKS"> COMPONENT </a></td> <td> PURPOSE </td> <td> PRICE </td> </tr>
-  <tr> <td> <a href="HYPERLINKS"> COMPONENT </a></td> <td> PURPOSE </td> <td> PRICE </td> </tr>
-  <tr> <td> <a href="HYPERLINKS"> COMPONENT </a></td> <td> PURPOSE </td> <td> PRICE </td> </tr>
-  <tr> <td> <a href="HYPERLINKS"> COMPONENT </a></td> <td> PURPOSE </td> <td> PRICE </td> </tr>
+  <tr> <td> <i>Program</i> </td> <td> <i>Purpose</i> </td> <td> <i>Availability</i> </td> </tr>
+  <tr> <td> <a href="https://discuss.bluerobotics.com/t/software-updates/1128"> Companion </a></td> <td> firmware for ROV's Rasperry Pi computer </td> <td> available to download </td> </tr>
+  <tr> <td> <a href=""> Pixhawk </a></td> <td> firmware for ROV's Pixhawk computer </td> <td> available to download </td> </tr>
+  <tr> <td> <a href="http://qgroundcontrol.com/"> QGroundControl </a></td> <td> Interface with and fly ROV </td> <td> available to download </td> </tr>
+  <tr> <td> <a href="https://docs.bluerobotics.com/ping-viewer/"> PingViewer </a></td> <td> View real-time Ping altimeter feed </td> <td> available to download </td> </tr>
 </table>
 
 <table>
-  <tr> <td colspan="3"> Post-processing and analytical software </td> </tr>
-  <tr> <td> Component </td> <td> Purpose </td> <td> Price </td> </tr>
+  <tr> <td colspan="3"> Imagery post-processing and analytical software </td> </tr>
+ <tr> <td> <i>Program</i> </td> <td> <i>Purpose</i> </td> <td> <i>Availability</i> </td> </tr>
   <tr> <td> <a href="HYPERLINKS"> COMPONENT </a></td> <td> PURPOSE </td> <td> PRICE </td> </tr>
   <tr> <td> <a href="HYPERLINKS"> COMPONENT </a></td> <td> PURPOSE </td> <td> PRICE </td> </tr>
   <tr> <td> <a href="HYPERLINKS"> COMPONENT </a></td> <td> PURPOSE </td> <td> PRICE </td> </tr>
