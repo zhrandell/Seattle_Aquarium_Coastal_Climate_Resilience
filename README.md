@@ -13,8 +13,8 @@ Our objective is to develop methods of using a small, relatively inexpensive, an
 * to read a summary of our motivation and methods, see our _project_summary_ ([TeX](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/project_summary/CCR_summary_document.tex), [pdf](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/project_summary/CCR_summary_document.pdf))
 * see read a synopsis of ROV testing and AI proof-of-concept analyses of benthic imagery, see our _ROV_AI_synopsis_ ([TeX](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/ROV_AI_synopsis/ROV_AI_synopsis.tex), [pdf](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/ROV_AI_synopsis/ROV_AI_synopsis.pdf)) (the pdf is a large file and requires being downloaded)
 * to read a proposal funded by the North Pacific Coast Marine Resources Committee, see _North_Pacific_Coast_MRC_proposal_ ([pdf](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/North_Pacific_Coast_MRC_proposal/ROV_pilotStudy_NPC-MRC_proposal%2021-23.pdf)) 
-* to view all hardware and software associated with this project, view our _hardware_software_ document ([markdown](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/ROV_specifications.md))
-* to view the software being used on the ROV, ROV laptop, and to edit videos and analyze imagery, see here 
+* to view all hardware and software associated with this project, view our _hardware_software_ document ([markdown](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/hardware_software.md))
+
 
 As what we envision is ambitious, we welcome collaborators and partners, as well as feedback, comments, and questions. If you want to contact lead Prinicpal Investigator Dr. Zachary Randell, he can be reached at: z.randell@seattleaquarium.org 
 
