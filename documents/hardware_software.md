@@ -27,7 +27,7 @@ ROV firmware, flight programs, & analytical software
   <tr> <td colspan="3"> ROV firmware & laptop software </td> </tr>
   <tr> <td> <i>Program</i> </td> <td> <i>Purpose</i> </td> <td> <i>Availability</i> </td> </tr>
   <tr> <td> <a href="https://discuss.bluerobotics.com/t/software-updates/1128"> Companion </a></td> <td> firmware for ROV's Rasperry Pi computer </td> <td> available to download </td> </tr>
-  <tr> <td> <a href=""> Pixhawk </a></td> <td> firmware for ROV's Pixhawk computer </td> <td> available to download </td> </tr>
+  <tr> <td> <a href="https://discuss.bluerobotics.com/t/software-updates/1128"> Pixhawk </a></td> <td> firmware for ROV's Pixhawk computer </td> <td> available to download </td> </tr>
   <tr> <td> <a href="http://qgroundcontrol.com/"> QGroundControl </a></td> <td> Interface with and fly ROV </td> <td> available to download </td> </tr>
   <tr> <td> <a href="https://docs.bluerobotics.com/ping-viewer/"> PingViewer </a></td> <td> View real-time Ping altimeter feed </td> <td> available to download </td> </tr>
 </table>
