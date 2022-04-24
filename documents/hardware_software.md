@@ -37,7 +37,7 @@ ROV firmware, flight programs, & analytical software
  <tr> <td> <i>Program</i> </td> <td> <i>Purpose</i> </td> <td> <i>Availability</i> </td> </tr>
   <tr> <td> <a href="https://www.cyberlink.com/products/powerdirector-video-editing-software/features_en_US.html"> CyberLink PowerDirector 365 </a></td> <td> basic video/photo editing </td> <td> subscription based: $70/yr </td> </tr>
   <tr> <td> <a href="https://coralnet.ucsd.edu/about/"> CoralNet </a></td> <td> percent-cover analysis of photos </td> <td> <a href="https://github.com/beijbom/coralnet"> open-source </a></td> </tr>
-  <tr> <td> <a href="HYPERLINKS"> VIAME </a></td> <td> object detection (metrics of abundance) in photos/video </td> <td> <a href="https://github.com/viame/VIAME"> open-source </a> </td> </tr>
+  <tr> <td> <a href="https://www.viametoolkit.org/wp-content/uploads/2020/09/VIAME-AI-Workshop-Aug2020.pdf"> VIAME </a></td> <td> object detection (metrics of abundance) in photos/video </td> <td> <a href="https://github.com/viame/VIAME"> open-source </a> </td> </tr>
   <tr> <td> <a href="https://www.rstudio.com/products/rstudio/download/"> R-studio </a> & <a href="https://www.r-project.org/"> R</a> </a></td> <td> data analysis </td> <td> available to download </td> </tr>
   <tr> <td> <a href="https://www.texstudio.org/"> TeXstudio </a> & <a href="https://miktex.org/"> MikTeX </a></td> <td> document creation </td> <td> available to download </td> </tr>
 </table>
