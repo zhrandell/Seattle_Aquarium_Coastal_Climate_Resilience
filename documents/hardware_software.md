@@ -1,7 +1,7 @@
 Hardware
 ---
 <table>
-  <tr> <td colspan="3"> <b>Core ROV components</b> </td> </tr>
+  <tr> <td colspan="3"> Core ROV components </td> </tr>
   <tr> <td> <i>Component</i> </td> <td> <i>Purpose</i> </td> <td> <i>Price</i> </td> </tr>
   <tr> <td> <a href="https://bluerobotics.com/store/rov/bluerov2/"> BlueROV2 </a></td> <td> conduct benthic surveys via photo and video collection </td> <td> $3490 </td> </tr>
   <tr> <td> <a href="https://bluerobotics.com/store/rov/bluerov2-upgrade-kits/brov2-heavy-retrofit-r1-rp/"> Heavy retrofit kit </a></td> <td> provide additional thrust </td> <td> $740 </td> </tr>
@@ -12,7 +12,7 @@ Hardware
 </table>
 
 <table>
-  <tr> <td colspan="3"> <b> Benthic and forward-facing camera, lights, and additional sensors </b> </td> </tr>
+  <tr> <td colspan="3"> Benthic and forward-facing camera, lights, and additional sensors </td> </tr>
   <tr> <td> <i>Component</i> </td> <td> <i>Purpose</i> </td> <td> <i>Price</i> </td> </tr>
   <tr> <td> <a href="https://bluerobotics.com/store/rov/bluerov2-accessories/brov-payload-skid/"> Payload skid </a></td> <td> provides undercarriage for lights, cameras, and sensors </td> <td> $300 </td> </tr>
   <tr> <td> <a href="https://bluerobotics.com/store/thrusters/lights/lumen-sets-r2-rp/"> x4 1500 lumen lights </a></td> <td> benthic illumination </td> <td> $650 </td> </tr>
@@ -36,10 +36,12 @@ ROV firmware, flight programs, & analytical software
   <tr> <td colspan="3"> Imagery post-processing and analytical software </td> </tr>
  <tr> <td> <i>Program</i> </td> <td> <i>Purpose</i> </td> <td> <i>Availability</i> </td> </tr>
   <tr> <td> <a href="https://www.cyberlink.com/products/powerdirector-video-editing-software/features_en_US.html"> CyberLink PowerDirector 365 </a></td> <td> basic video/photo editing </td> <td> subscription based: $70/yr </td> </tr>
-  <tr> <td> <a href="https://coralnet.ucsd.edu/about/"> CoralNet </a></td> <td> percent-cover analysis of photos </td> <td> <a href="https://github.com/beijbom/coralnet"> open-source </a></td> </tr>
-  <tr> <td> <a href="https://www.viametoolkit.org/wp-content/uploads/2020/09/VIAME-AI-Workshop-Aug2020.pdf"> VIAME </a></td> <td> object detection (metrics of abundance) in photos/video </td> <td> <a href="https://github.com/viame/VIAME"> open-source </a> </td> </tr>
+  <tr> <td> <a href="https://coralnet.ucsd.edu/about/"> CoralNet </a></td> <td> percent-cover analysis of photos </td> <td> <a href="https://github.com/beijbom/coralnet"> open-source</a>; web-interface </td> </tr>
+  <tr> <td> <a href="https://www.viametoolkit.org/wp-content/uploads/2020/09/VIAME-AI-Workshop-Aug2020.pdf"> VIAME </a></td> <td> object detection (metrics of abundance) in photos/video </td> <td> <a href="https://github.com/viame/VIAME"> open-source</a>; download or web-interface </td> </tr>
   <tr> <td> <a href="https://www.rstudio.com/products/rstudio/download/"> R-studio </a> & <a href="https://www.r-project.org/"> R</a> </a></td> <td> data analysis </td> <td> available to download </td> </tr>
   <tr> <td> <a href="https://www.texstudio.org/"> TeXstudio </a> & <a href="https://miktex.org/"> MikTeX </a></td> <td> document creation </td> <td> available to download </td> </tr>
+   <tr> <td> <a href="https://www.mendeley.com/"> Mendeley </a> </td> <td> references manager </td> <td> available to download </td> </tr>
+    <tr> <td> <a href="https://desktop.github.com/"> GitHub Desktop </a> </td> <td> interface with GitHub </td> <td> available to download </td> </tr>
 </table>
 
 
