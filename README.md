@@ -4,8 +4,8 @@ This is a public repository to organize information and documents pertaining to 
 Our objective is to develop methods of using a small, relatively inexpensive, and readily deployable ROV to conduct photo/video surveys along shallow (5-40m) regions of the seafloor. This includes surveying urchin-barrens and locations characterized by understory/turf algae as well as canopy-forming kelp forests. The latter environment in particular will undoutebly pose challenges, but even a partial success surveying canopy kelp forests would radically expand the spatial extent across which we gather data and make inferences about benthic community structure. We are not seeking to replace scientific SCUBA diving-based monitoring, but rather we envision using ROVs as an additional tool that will operate alongside divers as part of long-term subtidal monitoring programs. 
 
 <p>
-  <img src="photos/image_1.jpg" width="500" />
-  <img src="photos/image_3.jpg" width="500" />
+  <img src="photos/image_1.jpg" width="400" />
+  <img src="photos/image_3.jpg" width="400" />
 </p>
 
 * To read a press release detailing the collaboration between the Port of Seattle and the Seattle Aquarium, see [this website](https://www.portseattle.org/news/port-seattle-and-seattle-aquarium-collaborate-restore-kelp-forests-elliott-bay)
