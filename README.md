@@ -15,5 +15,5 @@ Our objective is to develop methods of using a small, relatively inexpensive, an
 * To view all hardware and software associated with this project, see the _hardware_software_ document ([markdown](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/hardware_software.md))
 * To view videos from the ROV, see the _ROV_video_vinettes_ document ([markdown](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/ROV_videos.md))
 
-As what we envision is ambitious, we welcome collaborators and partners, as well as feedback, comments, and questions. If you want to contact Prinicpal Investigator Dr. Zachary Randell, he can be reached at: z.randell@seattleaquarium.org 
+As what we envision is ambitious, we welcome collaborators and partners, as well as feedback, comments, and questions. Please direct contact to z.randell@seattleaquarium.org
 
