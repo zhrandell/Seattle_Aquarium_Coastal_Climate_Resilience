@@ -12,8 +12,8 @@ Our objective is to develop methods of using a small, relatively inexpensive, an
 * To view all hardware and software associated with this project, see the _hardware_software_ document ([markdown](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/hardware_software.md))
 
 <p align="center">
-  <img src="photos/image_1.jpg" width="340" />
-  <img src="photos/image_3.jpg" width="340" />
+  <img src="photos/kelp_bumpers_1.jpg" width="340" />
+  <img src="photos/kelp_bumpers_2.jpg" width="340" />
 </p>
 
 As what we envision is ambitious, we welcome collaborators and partners, as well as feedback, comments, and questions. Please direct contact to z.randell@seattleaquarium.org
