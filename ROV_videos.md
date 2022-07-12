@@ -1,7 +1,7 @@
 ROV video vinettes
 ---
 
-This table provides links to short ROV video clips. These clips have been processed to highlight species encountered or moments that were useful in diagnosing image quality or ROV performance. The following hyperlinks direct to a stable (permanent) Google Drive account where the videos are stored. All video files are 4K, though unless you have a 4K monitor, the videos will be downscaled. 
+This table provides links to short ROV video clips. These clips have been processed to highlight species encountered or moments that were useful in diagnosing image quality or ROV performance. The following hyperlinks direct to a stable (permanent) Google Drive account where the videos are stored. 
 
 <table>
   <tr><td> <i>Date</i> </td><td> <i>Location</i> </td><td> <i>Description</i> </td><td> <i>Link</i> </td></tr>
