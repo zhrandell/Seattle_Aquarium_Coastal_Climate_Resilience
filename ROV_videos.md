@@ -1,4 +1,4 @@
-ROV video vinettes
+ROV video vignettes
 ---
 
 This table provides links to short ROV video clips. These clips have been processed to highlight species encountered or moments that were useful in diagnosing image quality or ROV performance. The following hyperlinks direct to a stable (permanent) Google Drive account where the videos are stored. 
