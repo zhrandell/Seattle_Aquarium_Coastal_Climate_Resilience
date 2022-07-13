@@ -15,5 +15,4 @@ This is a public repository to organize information and documents pertaining to 
   <img src="photos/Aquarium_backdrop_wide.jpg" width="600" />
  </p>
 
-As what we envision is ambitious, we welcome collaborators and partners, as well as feedback, comments, and questions. Please direct contact to z.randell@seattleaquarium.org
-
+We welcome collaborators and partners, as well as feedback, comments, and questions. Please direct contact to z.randell@seattleaquarium.org
