@@ -8,6 +8,7 @@ This is a public repository to organize information and documents pertaining to 
 * To view a presentation about our (at the time) proposed project at the November 2021 Puget Sound Kelp Research and Monitoring Work Group, see [this video](https://www.youtube.com/watch?v=q3xT6H-Ufks&t=1702s)
 * To read a synopsis of ROV testing and AI proof-of-concept analyses of benthic imagery, see the _ROV_AI_synopsis_ document ([TeX](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/ROV_AI_synopsis/ROV_AI_synopsis.tex), [pdf](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/ROV_AI_synopsis/ROV_AI_synopsis.pdf)) (the pdf is a large file and requires being downloaded)
 * To read a proposal funded by the North Pacific Coast Marine Resources Committee, see _North_Pacific_Coast_MRC_proposal_ document ([pdf](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/North_Pacific_Coast_MRC_proposal/ROV_pilotStudy_NPC-MRC_proposal%2021-23.pdf)) 
+* To read a proposal funded by Sea Otter Foundation and Trust, see the _SOFT_2022_SeattleAquarium_proposal_ document ([pdf](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/SOFT_2022_SeattleAquarium_proposal.pdf))
 * To view all hardware and software associated with this project, see the _hardware_software_ document ([markdown](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/hardware_software.md))
 
 <p align="center">
