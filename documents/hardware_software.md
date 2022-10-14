@@ -12,13 +12,21 @@ Hardware
 </table>
 
 <table>
-  <tr> <td colspan="3"> Benthic and forward-facing camera, lights, and additional sensors </td> </tr>
+  <tr> <td colspan="3"> Benthic and forward-facing camera, lights, and sonar </td> </tr>
   <tr> <td> <i>Component</i> </td> <td> <i>Purpose</i> </td> <td> <i>Price</i> </td> </tr>
   <tr> <td> <a href="https://bluerobotics.com/store/rov/bluerov2-accessories/brov-payload-skid/"> Payload skid </a></td> <td> provides undercarriage for lights, cameras, and sensors </td> <td> $300 </td> </tr>
   <tr> <td> <a href="https://bluerobotics.com/store/thrusters/lights/lumen-sets-r2-rp/"> x4 downward-facing 1500 lumen lights </a></td> <td> benthic illumination </td> <td> $650 total </td> </tr>
     <tr> <td> <a href="https://bluerobotics.com/store/thrusters/lights/lumen-sets-r2-rp/"> x2 forward-facing 1500 lumen lights </a></td> <td> forward illumination </td> <td> $325 total </td> </tr>
   <tr> <td> <a href="https://gopro.com/en/us/shop/cameras/hero10-black/CHDHX-101-master.html?option-id=CHDHX-101-master"> x3 GoPro HERO 9/10 </a></td> <td> x2 downward-facing (photos & video) & x1 forward-facing cameras (video) </td> <td> $349 per unit  </td> </tr>
   <tr> <td> <a href="https://bluerobotics.com/store/sensors-sonars-cameras/sonar/ping-sonar-r2-rp/"> Ping sonar altimeter + BlueROV2 adapter </a></td> <td> real-time ROV altitude for consist surveys </td> <td> $405 </td> </tr>
+</table>
+
+<table>
+  <tr> <td colspan="3"> WaterLink's Acoustic GPS tracking system (see <a href="https://www.waterlinked.com/underwater-gps?hsLang=en"> here </a> for overview) </td> </tr>
+  <tr> <td> <i>Component</i> </td> <td> <i>Purpose</i> </td> <td> <i>Price</i> </td> </tr>
+  <tr> <td> <a href="https://store.waterlinked.com/product/ugps-pelican-case/"> Topside GPS hub </a></td> <td> Contains GPS receiver and other hardware required to integrate acoustic signals </td> <td> $3690 </td> </tr>
+  <tr> <td> <a href="https://store.waterlinked.com/product/locator-u1/"> Locator U1 </a></td> <td> Acoustic transmitter affixed to the ROV </td> <td> $2090 </td> </tr>
+    <tr> <td> <a href="https://store.waterlinked.com/product/antenna/"> Acoustic antenna </a></td> <td> Receives signal from acoustic transmitter </td> <td> $2150 </td> </tr>
 </table>
 
 ROV firmware, flight programs, & analytical software
@@ -31,7 +39,8 @@ ROV firmware, flight programs, & analytical software
   <tr> <td> <a href="https://discuss.bluerobotics.com/t/software-updates/1128"> Pixhawk </a></td> <td> firmware for ROV's Pixhawk computer </td> <td> available to download </td> </tr>
   <tr> <td> <a href="http://qgroundcontrol.com/"> QGroundControl </a></td> <td> Interface with and fly ROV </td> <td> available to download </td> </tr>
   <tr> <td> <a href="https://docs.bluerobotics.com/ping-viewer/"> PingViewer </a></td> <td> View real-time Ping altimeter feed </td> <td> available to download </td> </tr>
-</table>
+  <tr> <td> <a href="https://waterlinked.github.io/underwater-gps/gui/position/"> WaterLinked GUI </a></td> <td> View real-time positioning of ROV via acoustic GPS </td> <td> available to download </td> </tr>
+  </table>
 
 <table>
   <tr> <td colspan="3"> Imagery post-processing and analytical software </td> </tr>
