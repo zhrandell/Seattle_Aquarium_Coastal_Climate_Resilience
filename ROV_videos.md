@@ -1,7 +1,7 @@
 ROV video vignettes
 ---
 
-This table provides links to short ROV video clips. These clips have been processed to highlight species encountered or moments that were useful in diagnosing image quality or ROV performance. The following hyperlinks direct to a stable (permanent) Google Drive account where the videos are stored. 
+This table provides links to clips from ROV _Nereo_. These videos include (**1**) relatively short, clipped together segments to highlight species encountered or moments that were useful in diagnosing image quality or ROV performance, as well as (**2**) full-length benthic transects from ROV surveys. The following hyperlinks direct to a stable (permanent) Google Drive account where the videos are stored. NOTE that the Google Drive preview you'll see is a very low resolution copy (likely 720p); however, you are able to download all videos in their full resolution. Most videos are in 4K, i.e. 3840 x 2160, though you will only achieve this resolution if you have a 4K screen. 
 
 <table>
   <tr><td> <i>Date</i> </td><td> <i>Location</i> </td><td> <i>Description</i> </td><td> <i>Aspect<i> </td><td> <i>Resolution & frames per second </i> </td>
