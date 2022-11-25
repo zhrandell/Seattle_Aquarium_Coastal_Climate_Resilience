@@ -15,11 +15,12 @@ If you desire to "get into the weeds" in terms of code, analyses, and the manage
 
 <p align="center">
   <img src="photos/Aquarium_backdrop_wide.jpg" width="500" height="340" />
+  <img src="photos/Nereo_4.png" width="500" height="340" />
  </p>
  
  
  <p float="left">
-  <img src="photos/Nereo_4.png" width="500" height="340" />
+  <img src="photos/Nereo_14.png" width="500" height="340" />
   <img src="photos/Nereo_18.png" width="500" height="340"/> 
 </p>
 
