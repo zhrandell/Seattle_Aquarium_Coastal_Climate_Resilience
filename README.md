@@ -14,7 +14,7 @@ If you desire to "get into the weeds" in terms of code, analyses, and the manage
 * To read a proposal funded by Sea Otter Foundation and Trust, see the _SOFT_2022_SeattleAquarium_proposal_ document ([pdf](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/SOFT_2022_SeattleAquarium_proposal.pdf))
 
 <p align="center">
-  <img src="photos/Aquarium_backdrop_wide.jpg" width="500" height="340" />
+  <img src="photos/Nereo_backdrop.jpg" width="500" height="340" />
   <img src="photos/Nereo_4.png" width="500" height="340" />
  </p>
  
