@@ -11,10 +11,11 @@ If you desire to "get into the weeds" in terms of code, analyses, and the manage
 ## Public facing
 * To view a Seattle Channel video detailing our partnership with Port of Seattle, see [this link](https://www.youtube.com/watch?app=desktop&v=WdsnsdwxIYs)
 * To read a press release regarding our partnership with the Port of Seattle, see [this website](https://www.portseattle.org/news/port-seattle-and-seattle-aquarium-collaborate-restore-kelp-forests-elliott-bay)
-* To view a recent (January 2023) talk at the Puget Sound Kelp Research and Monitoring Workgroup, see [this link](https://www.youtube.com/watch?v=weyHmOVaXjk&t=5935s)
+* To view a January 2023 talk at the Puget Sound Kelp Research and Monitoring Workgroup, see [this link](https://www.youtube.com/watch?v=weyHmOVaXjk&t=5935s)
+* To view a post detailing our research on the BlueRobotics forums, see [this link](https://discuss.bluerobotics.com/t/new-research-using-customized-bluerov2-to-conduct-kelp-forest-surveys/13166)
 * To view an article in the Wahkiakum County Eagle about our ROV outreach and engagement, see [this link](https://www.waheagle.com/story/2022/12/08/wahkiakum-people/seattle-aquarium-gives-career-talk-and-demo-at-town-pool/21681.html)
 * To view an interview with Diane Tomecek, CEO and President of Sea Otter Foundation and Trust, see [this link](https://www.youtube.com/watch?v=KDEc3Q2V5XQ)
-* To view our first presentation at the November 2021 Puget Sound Kelp Research and Monitoring Workgroup, see [this link](https://www.youtube.com/watch?v=q3xT6H-Ufks&t=1702s)
+* To view a November 2021 presentation to the Puget Sound Kelp Research and Monitoring Workgroup, see [this link](https://www.youtube.com/watch?v=q3xT6H-Ufks&t=1702s)
 
 ## Synopses
 * To read our 2022 year-end report to the Port of Seattle, download the pdf found at [this link](https://drive.google.com/file/d/1HJUBRQQiuhMxuoTgmrHuluVSnRD-cZ3M/view?usp=share_link)
