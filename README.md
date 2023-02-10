@@ -9,8 +9,8 @@ If you desire to "get into the weeds" in terms of code, analyses, and the manage
 * To view all hardware and software associated with this project, see the _hardware_software_ document ([here](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/hardware_software.md))
 
 ## Public facing
-* To view a Seattle Channel video detailing the collaboration between the Port of Seattle and the Seattle Aquarium, see [this link](https://www.youtube.com/watch?app=desktop&v=WdsnsdwxIYs)
-* To read a press release detailing the collaboration between the Port of Seattle and the Seattle Aquarium, see [this website](https://www.portseattle.org/news/port-seattle-and-seattle-aquarium-collaborate-restore-kelp-forests-elliott-bay)
+* To view a Seattle Channel video detailing our partnership with Port of Seattle, see [this link](https://www.youtube.com/watch?app=desktop&v=WdsnsdwxIYs)
+* To read a press release regarding our partnership with the Port of Seattle, see [this website](https://www.portseattle.org/news/port-seattle-and-seattle-aquarium-collaborate-restore-kelp-forests-elliott-bay)
 * To view a recent (January 2023) talk at the Puget Sound Kelp Research and Monitoring Workgroup, see [this link](https://www.youtube.com/watch?v=weyHmOVaXjk&t=5935s)
 * To view an article in the Wahkiakum County Eagle about our ROV outreach and engagement, see [this link](https://www.waheagle.com/story/2022/12/08/wahkiakum-people/seattle-aquarium-gives-career-talk-and-demo-at-town-pool/21681.html)
 * To view an interview with Diane Tomecek, CEO and President of Sea Otter Foundation and Trust, see [this link](https://www.youtube.com/watch?v=KDEc3Q2V5XQ)
