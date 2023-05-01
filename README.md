@@ -29,20 +29,20 @@ If you desire to "get into the weeds" in terms of code, analyses, and the manage
 * To read a proposal funded by Sea Otter Foundation and Trust, see the _SOFT_2022_SeattleAquarium_proposal_ document ([pdf](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/SOFT_2022_SeattleAquarium_proposal.pdf))
 
 <p float="center">
-  <img src="photos/ROV_1.jpg" width="350" height="350" />
-  <img src="photos/ROV_2.jpg" width="350" height="350" />
+  <img src="photos/ROV_1.jpg" width="350" height="400" />
+  <img src="photos/ROV_2.jpg" width="350" height="400" />
  </p>
  
  
  <p float="center">
-  <img src="photos/deploy.jpg" width="350" height="350" />
-  <img src="photos/KH_MW.jpg" width="350" height="350"/> 
+  <img src="photos/deploy.jpg" width="350" height="400" />
+  <img src="photos/KH_MW.jpg" width="350" height="400"/> 
 </p>
 
 
  <p float="center">
-  <img src="photos/ROV_3.png" width="350" height="350" />
-  <img src="photos/ROV_4.png" width="350" height="350"/> 
+  <img src="photos/ROV_3.png" width="350" height="400" />
+  <img src="photos/ROV_4.png" width="350" height="400"/> 
 </p>
 
 We welcome collaborators and partners, as well as feedback, comments, and questions. Please direct contact to z.randell@seattleaquarium.org
