@@ -21,6 +21,7 @@ If you desire to "get into the weeds" in terms of code, analyses, and the manage
 * To view a November 2021 talk at the Puget Sound Kelp Research and Monitoring Workgroup, see [this link](https://www.youtube.com/watch?v=q3xT6H-Ufks&t=1702s)
 
 ## Synopses
+* To read a mid-year, July 2023 report to the Port of Seattle, download the pdf found at [this link](https://www.dropbox.com/scl/fi/jymeod2kwqhwbgq47lfhm/MidYear_PortReport_2023.pdf?rlkey=k64u9y5tuh62bwdg82b4ib299&dl=0)
 * To read our 2022 year-end report to the Port of Seattle, download the pdf found at [this link](https://drive.google.com/file/d/1HJUBRQQiuhMxuoTgmrHuluVSnRD-cZ3M/view?usp=share_link)
 * To read our August 2022 mid-year report to the Port of Seattle, download the pdf found at [this link](https://drive.google.com/file/d/1TKmW6_uTrDJhU3D5V1hLlYneD5uOjDOW/view?usp=share_link)
 * To read an early (April 2022) report on preliminary ROV testing and AI proof-of-concept analyses, download the pdf at [this link](https://drive.google.com/file/d/1WJlOQx8s-SBERnd90mW8A6-63SzD9MGU/view?usp=share_link)
