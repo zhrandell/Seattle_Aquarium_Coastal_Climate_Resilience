@@ -11,6 +11,7 @@ If you desire to "get into the weeds" in terms of code, analyses, and the manage
 ## Public facing
 * To view a Seattle Channel video detailing our partnership with Port of Seattle, see [this link](https://www.youtube.com/watch?app=desktop&v=WdsnsdwxIYs)
 * To read a Seattle Times article about our partnership with the Port of Seattle, see [this link](https://www.seattletimes.com/sponsored/seattle-partnership-dives-into-the-mysteries-of-elliott-bays-bull-kelp/)
+* To view an October 2023 talk at the Elakha Alliance Sea Otter Science Symposium, see [this link](https://www.youtube.com/watch?v=GUMnOl4OmFQ) 
 * To view a live-streamed ROV dive facilitated by StreamYard and a Verizon MiFi unit, see [this link](https://www.youtube.com/watch?v=6dmY5qtlVhw&t=300s)
 * To view a January 2023 talk at the Puget Sound Kelp Research and Monitoring Workgroup, see [this link](https://www.youtube.com/watch?v=weyHmOVaXjk&t=5935s)
 * To read a Seattle Aquarium blog post about our research, see [this link](https://www.seattleaquarium.org/blog/ai-goes-below-surface-using-technology-make-difference-local-kelp)
