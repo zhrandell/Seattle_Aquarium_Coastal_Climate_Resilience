@@ -10,7 +10,7 @@ Our objectives include:
 * **3.** Integrate these ROV-derived data with other sources of information such as data from scuba divers, fixed sensors, autonomous surface vessels (ASVs), drones, and satellite imagery, all to maximize our inferences about benthic community structure, stability, and resilience.
 * **4.** We commit to pursue **1.** - **3.** in an open-source, open-access manner such that our partners, collaborators, and the public can copy what we've started in order to advance their own coastal monitoring, conservation, restoration, and management objectives. We likewise commit to actively support our partners in the development of their own ROV programs. Similar to the broad geographic reach of the standardized protocols set down by scientific diver programs such as Reef Check and PISCO, we envision a network of partners using standardized ROV survey protocols to enhance our collective data collection, analysis, and coordination capacity.
 
-The purpose of this repos is to make general and introductory information about the CCR program as accessible as possible to our partners, collaborators, and the public. 
+The purpose of this repo is to make general and introductory information about the CCR program as accessible as possible to our partners, collaborators, and the public. 
 All information and documentation assocaited with the repo is freely available to download and share. 
 We welcome collaborators and partners, as well as feedback, comments, and questions. Please direct contact to z.randell@seattleaquarium.org
 
