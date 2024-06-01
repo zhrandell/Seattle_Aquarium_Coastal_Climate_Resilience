@@ -1,7 +1,20 @@
-# Seattle_Aquarium_ROV_development
-This is a public repository to organize information and documents pertaining to the customization, testing, and deployment of the Seattle Aquarium's two BlueROV2's, dubbed ROV *Nereo* & and ROV *Lutris*. As part of the Coastal Climate Resilience (CCR) project run by Conservation Programs & Partnerships (CPP), we have developed and tested standardized protocols to use a small, relatively inexpensive, and readily deployable ROV to conduct video surveys along relatively shallow seafloor (5-40m depth), especially along canopy-forming and understory kelp forest locations. Our mission is to expand the spatial extent across which we gather data and make inferences about benthic community structure, stability, and resilience. We are not seeking to replace scientific SCUBA diving-based monitoring, but rather envision using ROVs as an additional tool alongside divers that will complement and enhance existing long-term subtidal monitoring programs. The purpose of this repository is to make information as accessible as possible to our partners, collaborators, and the public. 
+# Seattle_Aquarium_Coastal_Climate_Resilience
+This is a public repository to organize information and documents pertaining to the Seattle Aquarium's Coastal Climate Resilience (CCR) program. 
+Specifically, our work involves the customization, testing, and deployment of remotely operated vehicles (ROVs), dubbed ROV *Nereo* & and ROV *Lutris* to conduct video/photo surveys of the underlying seafloor and benthic community structure. 
+We have developed and tested standardized protocols to use small, relatively inexpensive, and readily deployable ROVs to conduct standardized surveys along relatively shallow coastal areas (5-40m depth), especially along canopy-forming and understory kelp forest locations. 
+We envision fully integrating ROVs as another tool in the coastal ecologists' toolkit that can (among other missions) complement and enhance existing long-term subtidal monitoring programs. 
 
-If you desire to "get into the weeds" in terms of code, analyses, and the management of the various sensor/data streams from the ROV, see our other public repository [Seattle_Aquarium_ROV_telemetry_imagery_analysis](https://github.com/zhrandell/Seattle_Aquarium_ROV_telemetry_imagery_analysis)
+Our objectives include: 
+* **1.** Expand the spatial extent across which we gather high-resolution photo/video data across the seafloor. 
+* **2.** Use open-source AI methods of image analysis to efficiently extract large amounts of data from our ROV-derived imagery. 
+* **3.** Integrate these ROV-derived data with other sources of information such as data from scuba divers, fixed sensors, autonomous surface vessels (ASVs), drones, and satellite imagery, all to maximize our inferences about benthic community structure, stability, and resilience.
+* **4.** We commit to pursue **1.** - **3.** in an open-source, open-access manner such that our partners, collaborators, and the public can copy what we've started in order to advance their own coastal monitoring, conservation, restoration, and management objectives. We likewise commit to actively support our partners in the development of their own ROV programs. Similar to the broad geographic reach of the standardized protocols set down by scientific diver programs such as Reef Check and PISCO, we envision a network of partners using standardized ROV survey protocols to enhance our collective data collection, analysis, and coordination capacity.
+
+The purpose of this repos is to make general and introductory information about the CCR program as accessible as possible to our partners, collaborators, and the public. 
+All information and documentation assocaited with the repo is freely available to download and share. 
+We welcome collaborators and partners, as well as feedback, comments, and questions. Please direct contact to z.randell@seattleaquarium.org
+
+If you desire to "get into the weeds" in terms of code, analyses, and the management of the various sensor/data streams from the ROV, see another public repo [Seattle_Aquarium_ROV_telemetry_imagery_analysis](https://github.com/zhrandell/Seattle_Aquarium_ROV_telemetry_imagery_analysis)
 
 ## Core resources 
 * To view videos from the ROV, see the _ROV_video_vignettes_ document ([here](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/ROV_videos.md))
@@ -23,6 +36,7 @@ If you desire to "get into the weeds" in terms of code, analyses, and the manage
 * To view a November 2021 talk at the Puget Sound Kelp Research and Monitoring Workgroup, see [this link](https://www.youtube.com/watch?v=q3xT6H-Ufks&t=1702s)
 
 ## Synopses
+* To read the 2023 year-end report to the Port of Seattle, download the pdf found at [this link](https://www.dropbox.com/scl/fi/r9h8rwams3n2h39q5hpib/2023_YearEnd_Report_Urban-Kelp-Research-Project.pdf?rlkey=35ua56ufnezqcyuomed3wgnep&dl=0)
 * To read a mid-year, July 2023 report to the Port of Seattle, download the pdf found at [this link](https://www.dropbox.com/scl/fi/jymeod2kwqhwbgq47lfhm/MidYear_PortReport_2023.pdf?rlkey=k64u9y5tuh62bwdg82b4ib299&dl=0)
 * To read our 2022 year-end report to the Port of Seattle, download the pdf found at [this link](https://drive.google.com/file/d/1HJUBRQQiuhMxuoTgmrHuluVSnRD-cZ3M/view?usp=share_link)
 * To read our August 2022 mid-year report to the Port of Seattle, download the pdf found at [this link](https://drive.google.com/file/d/1TKmW6_uTrDJhU3D5V1hLlYneD5uOjDOW/view?usp=share_link)
@@ -49,5 +63,4 @@ If you desire to "get into the weeds" in terms of code, analyses, and the manage
   <img src="photos/ROV_4.png" width="400" height="400"/> 
 </p>
 
-We welcome collaborators and partners, as well as feedback, comments, and questions. Please direct contact to z.randell@seattleaquarium.org
 
