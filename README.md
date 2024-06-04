@@ -14,7 +14,9 @@ The purpose of this repo is to make general and introductory information about t
 All information and documentation assocaited with the repo is freely available to download and share. 
 We welcome collaborators and partners, as well as feedback, comments, and questions. Please direct contact to z.randell@seattleaquarium.org
 
-If you desire to "get into the weeds" in terms of code, analyses, and the management of the various sensor/data streams from the ROV, see another public repo [Seattle_Aquarium_ROV_telemetry_imagery_analysis](https://github.com/zhrandell/Seattle_Aquarium_ROV_telemetry_imagery_analysis)
+* If you desire to "get into the weeds" in terms of code, analyses, and the management of the various sensor/data streams from the ROV, see another public repo [Seattle_Aquarium_ROV_telemetry_imagery_analysis](https://github.com/zhrandell/Seattle_Aquarium_ROV_telemetry_imagery_analysis).
+  
+* To see active areas of CCR development, specifically "1-pager" descriptions of various aspects of our work we are wanting to advance, see another public repo [Seattle_Aquarium_CCR_development](https://github.com/zhrandell/Seattle_Aquarium_CCR_development).
 
 ## Core resources 
 * To view videos from the ROV, see the _ROV_video_vignettes_ document ([here](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/ROV_videos.md))
