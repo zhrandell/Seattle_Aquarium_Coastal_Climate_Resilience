@@ -62,26 +62,26 @@ We welcome collaborators and partners, as well as feedback, comments, and questi
 * To read a proposal funded by Sea Otter Foundation and Trust, see the _SOFT_2022_SeattleAquarium_proposal_ document ([pdf](https://github.com/zhrandell/Seattle_Aquarium_ROV_development/blob/main/documents/SOFT_2022_SeattleAquarium_proposal.pdf))
 
 <p float="center">
-  <img src="photos/img_1.jpg" width="500" height="400" />
-  <img src="photos/img_2.jpg" width="500" height="400" />
+  <img src="photos/img_1.jpg" width="400" height="300" />
+  <img src="photos/img_2.jpg" width="400" height="300" />
  </p>
  
  
  <p float="center">
-  <img src="photos/img_3.jpg" width="500" height="400" />
-  <img src="photos/img_4.jpg" width="500" height="400" /> 
+  <img src="photos/img_3.jpg" width="400" height="300" />
+  <img src="photos/img_4.jpg" width="400" height="300" /> 
 </p>
 
 
  <p float="center">
-  <img src="photos/img_5.jpg" width="500" height="400" />
-  <img src="photos/img_6.jpg" width="500" height="400"/> 
+  <img src="photos/img_5.jpg" width="400" height="300" />
+  <img src="photos/img_6.jpg" width="400" height="300"/> 
 </p>
 
 
  <p float="center">
-  <img src="photos/img_7.jpg" width="500" height="400" />
-  <img src="photos/img_8.jpg" width="500" height="400"/> 
+  <img src="photos/img_7.jpg" width="400" height="300" />
+  <img src="photos/img_8.jpg" width="400" height="300"/> 
 </p>
 
 
