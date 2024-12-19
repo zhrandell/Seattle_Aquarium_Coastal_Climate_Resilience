@@ -14,7 +14,7 @@ We envision fully integrating ROVs as another tool in the coastal ecologists' to
   
 * **2.** Use open-source AI methods of image analysis to efficiently extract large amounts of data from our imagery. 
   
-* **3.** Conduct data analysis to bettern understand the patterns of population health and ecological resilience for kelp, invertebrates, and fishes. 
+* **3.** Conduct data analysis to better understand the patterns of population health and ecological resilience for kelp, invertebrates, and fishes. 
   
 * **4.** Integrate these ROV-derived data with other sources of information such as data from scuba divers, fixed sensors, autonomous surface vessels (ASVs), drones, and satellite imagery, in order to maximize our inferences about benthic community structure, stability, and resilience.
   
